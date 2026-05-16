@@ -2,7 +2,8 @@
 
 A Claude Code skill for SEO and web/mobile audit workflows. Covers full-site audits, single-page reviews, technical SEO, content quality and E-E-A-T, AI search / GEO readiness, schema, XML sitemaps, image optimization, hreflang, competitor comparison pages, programmatic SEO, and SEO strategy.
 
-Maintained by Nina Ryttel.
+**Author:** Nina Ryttel ([@ninryt](https://github.com/ninryt))
+**License:** [MIT](LICENSE) : reuse is welcome, please keep the copyright notice.
 
 ## Files
 
