@@ -1,0 +1,19 @@
+# Audit outputs and working artifacts
+audits/
+reports/
+notes/
+scripts/
+templates/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Source photos / transcriptions (never commit)
+*.heic
+*.HEIC
+*.jpg
+*.jpeg
+*.png
+source-photo-transcription.md
